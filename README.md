@@ -82,10 +82,7 @@ Currently, I am expanding my skills by studying Artificial Intelligence for Deve
 
 ### Contact
 
-<div align="center">  
-  <a href="https://www.instagram.com/thabata.m.tamura/" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>  
+<div align="left">  
   <a href="mailto:tatha.marchi@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
