@@ -1,22 +1,43 @@
-<!-- Header animado -->
+<!-- Animated Header -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=c0c0c0&height=120&section=header"/>
 
-<!-- Texto de digitação animado -->
+<!-- Animated Typing Text -->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=35&center=true&vCenter=true&width=1000&lines=Hello,+My+name+is+Thabata+Marchi;+I+I'm+a+Mobile+Developer+%7C+Accessibility+Specialist;Founder+of+Web+Sem+Barreiras)](https://git.io/typing-svg)
 
 
-## My GitHub Statistics
+# 📊 Thabata Marchi's GitHub Stats
 
-<div align="center">
-  <!-- GitHub Stats -->
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=thabata1&show_icons=true&count_private=true&hide=stars&hide_border=true&title_color=c0c0c0&icon_color=c0c0c0&text_color=c9d1d9&bg_color=0d1117" alt="Thabata Marchi github stats" /> 
-  
-  <!-- Top Languages -->
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thabata1&layout=compact&hide_border=true&title_color=c0c0c0&text_color=c0c0c0&bg_color=0d1117&hide=MDX" alt="Top Languages" />
-  
-  <!-- GitHub Streak -->
-  <img width="70%" height="195px" src="https://github-readme-streak-stats.herokuapp.com?user=thabata1&theme=github-dark-blue&hide_border=true&mode=weekly&title_color=c0c0c0&icon_color=c0c0c0&text_color=c9d1d9&bg_color=0d1117&card_width=550" alt="GitHub Streak" />
+<!-- GitHub Streak -->
+<img width="50%" height="195px" src="https://github-readme-streak-stats.herokuapp.com?user=thabata1&theme=github-dark-blue&hide_border=true&mode=weekly&title_color=c0c0c0&icon_color=c0c0c0&text_color=c9d1d9&bg_color=0d1117&card_width=550" alt="GitHub Streak" />
 </div>
+
+[![Automatic Update](https://github.com/thabata-marchi/painel-github-estatisticas/actions/workflows/update-statistics.yml/badge.svg)](https://github.com/thabata-marchi/painel-github-estatisticas/actions/workflows/update-statistics.yml)
+[![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-Live-brightgreen)](https://thabata-marchi.github.io/painel-github-estatisticas)
+
+## 🚀 General Summary
+
+| Metric   | Value |
+|---------|--------|
+| 🏢 **Monitored Accounts** | 2 |
+| 📁 **Total Repositories** | 36 |
+| ⭐ **Total Stars** | 12 |
+| 🍴 **Total Forks** | 1 |
+
+## 🌍 Most Used Languages
+
+```
+JavaScript      ████████████████████  12 (100.0%)
+Java            ██████████░░░░░░░░░░   6 ( 50.0%)
+Dart            ██████████░░░░░░░░░░   6 ( 50.0%)
+Kotlin          █░░░░░░░░░░░░░░░░░░░   1 (  8.3%)
+TypeScript      █░░░░░░░░░░░░░░░░░░░   1 (  8.3%)
+C++             █░░░░░░░░░░░░░░░░░░░   1 (  8.3%)
+HTML            █░░░░░░░░░░░░░░░░░░░   1 (  8.3%)
+```
+
+
+
+
 
 <!-- Activity Graph -->
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=thabata1&bg_color=0d1117&color=ffffff&line=c0c0c0&point=ffffff&area=true&hide_border=false&area_color=0091dc&radius=16)](https://github.com/ashutosh00710/github-readme-activity-graph)
@@ -31,7 +52,7 @@ I work with React Native, Flutter, React.js, and lead initiatives to broaden the
 
 In addition to my expertise in accessibility, I am deeply committed to writing **Clean Code**, following **SOLID principles** (Single Responsibility, Open/Closed, Liskov Substitution, Interface Segregation, and Dependency Inversion), and designing solutions based on **Clean Architecture** to build scalable and maintainable software.
 
-Currently, I am expanding my skills by studying Artificial Intelligence for Developers through a course offered by Branas, integrating AI knowledge into modern development practices.
+Currently, I am expanding my skills by studying Artificial Intelligence for Developers through a course offered by branas.io, integrating AI knowledge into modern development practices.
 
 ---
 
@@ -45,7 +66,7 @@ Currently, I am expanding my skills by studying Artificial Intelligence for Deve
 
 ---
 
-### Ferramentas:
+### Tools:
 
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=0078D4&labelColor=0D1117)  
 ![Git](https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=F05032&labelColor=0D1117)  
@@ -62,7 +83,7 @@ Currently, I am expanding my skills by studying Artificial Intelligence for Deve
 
 ---
 
-### Contato
+### Contact
 
 <div align="center">  
   <a href="https://www.instagram.com/thabata.m.tamura/" target="_blank">
@@ -81,5 +102,5 @@ Currently, I am expanding my skills by studying Artificial Intelligence for Deve
   <br>
 </div>
 
-<!-- Footer animado -->
+<!-- Animated Footer -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=c0c0c0&height=120&section=footer"/>
