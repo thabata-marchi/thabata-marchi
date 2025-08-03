@@ -1,16 +1,85 @@
-## Hi there 👋
+<!-- Header animado -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=c0c0c0&height=120&section=header"/>
 
-<!--
-**thabata-marchi/thabata-marchi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- Texto de digitação animado -->
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=35&center=true&vCenter=true&width=1000&lines=Hello,+My+name+is+Thabata+Marchi;+I+I'm+a+Mobile+Developer+%7C+Accessibility+Specialist;Founder+of+Web+Sem+Barreiras)](https://git.io/typing-svg)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## My GitHub Statistics
+
+<div align="center">
+  <!-- GitHub Stats -->
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=thabata1&show_icons=true&count_private=true&hide=stars&hide_border=true&title_color=c0c0c0&icon_color=c0c0c0&text_color=c9d1d9&bg_color=0d1117" alt="Thabata Marchi github stats" /> 
+  
+  <!-- Top Languages -->
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thabata1&layout=compact&hide_border=true&title_color=c0c0c0&text_color=c0c0c0&bg_color=0d1117&hide=MDX" alt="Top Languages" />
+  
+  <!-- GitHub Streak -->
+  <img width="70%" height="195px" src="https://github-readme-streak-stats.herokuapp.com?user=thabata1&theme=github-dark-blue&hide_border=true&mode=weekly&title_color=c0c0c0&icon_color=c0c0c0&text_color=c9d1d9&bg_color=0d1117&card_width=550" alt="GitHub Streak" />
+</div>
+
+<!-- Activity Graph -->
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=thabata1&bg_color=0d1117&color=ffffff&line=c0c0c0&point=ffffff&area=true&hide_border=false&area_color=0091dc&radius=16)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+---
+
+### About Me
+
+I’m Thabata Marchi, a Mobile Developer and Digital Accessibility Specialist. As the founder of the **Web Sem Barreiras** community in Brazil, my purpose is to connect people and transform lives by creating truly accessible digital products, promoting real and practical inclusion.
+
+I work with React Native, Flutter, React.js, and lead initiatives to broaden the conversation around digital accessibility. I am recognized in the field and have delivered courses, lectures, and consulting sessions on inclusive technology.
+
+In addition to my expertise in accessibility, I am deeply committed to writing **Clean Code**, following **SOLID principles** (Single Responsibility, Open/Closed, Liskov Substitution, Interface Segregation, and Dependency Inversion), and designing solutions based on **Clean Architecture** to build scalable and maintainable software.
+
+Currently, I am expanding my skills by studying Artificial Intelligence for Developers through a course offered by Branas, integrating AI knowledge into modern development practices.
+
+---
+
+### Main skills:
+
+![React Native](https://img.shields.io/badge/React_Native-0D1117?style=for-the-badge&logo=react&labelColor=0D1117&logoColor=61DAFB)  
+![Flutter](https://img.shields.io/badge/Flutter-0D1117?style=for-the-badge&logo=flutter&logoColor=02569B&labelColor=0D1117)  
+![React](https://img.shields.io/badge/React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117&logoColor=61DAFB)  
+![HTML5](https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117&logoColor=E34F26) ![CSS](https://img.shields.io/badge/CSS3-0D1117?style=for-the-badge&logo=css3&labelColor=0D1117&logoColor=1572B6)  
+![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&logoColor=F7DF1E)  
+
+---
+
+### Ferramentas:
+
+![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=0078D4&labelColor=0D1117)  
+![Git](https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=F05032&labelColor=0D1117)  
+![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=DDDDDD&labelColor=0D1117)  
+![Postman](https://img.shields.io/badge/Postman-0D1117?style=for-the-badge&logo=postman&logoColor=FF6C37&labelColor=0D1117)  
+![Figma](https://img.shields.io/badge/Figma-0D1117?style=for-the-badge&logo=figma&logoColor=F24E1E&labelColor=0D1117)  
+
+---
+
+### Other skills:
+
+![Web Accessibility](https://img.shields.io/badge/Web%20Accessibility-0D1117?style=for-the-badge&logo=accessibility&logoColor=white&labelColor=0D1117)
+![Redux Saga](https://img.shields.io/badge/Redux_Saga-0D1117?style=for-the-badge&logo=redux-saga&logoColor=86D46B&labelColor=0D1117)  
+
+---
+
+### Contato
+
+<div align="center">  
+  <a href="https://www.instagram.com/thabata.m.tamura/" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>  
+  <a href="mailto:tatha.marchi@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</div>
+
+---
+
+<div align="center">
+  <br><p><b>Visitors Count</b></p>  
+  <p><img src="https://profile-counter.glitch.me/thabata1/count.svg" /></p> 
+  <br>
+</div>
+
+<!-- Footer animado -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=c0c0c0&height=120&section=footer"/>
