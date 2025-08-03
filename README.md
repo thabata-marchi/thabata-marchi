@@ -1,6 +1,3 @@
-<!-- Animated Header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=c0c0c0&height=120&section=header"/>
-
 <!-- Animated Typing Text -->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=35&center=true&vCenter=true&width=1000&lines=Hello,+My+name+is+Thabata+Marchi;+I+I'm+a+Mobile+Developer+%7C+Accessibility+Specialist;Founder+of+Web+Sem+Barreiras)](https://git.io/typing-svg)
 
@@ -95,12 +92,3 @@ Currently, I am expanding my skills by studying Artificial Intelligence for Deve
 </div>
 
 ---
-
-<div align="center">
-  <br><p><b>Visitors Count</b></p>  
-  <p><img src="https://profile-counter.glitch.me/thabata1/count.svg" /></p> 
-  <br>
-</div>
-
-<!-- Animated Footer -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=c0c0c0&height=120&section=footer"/>
