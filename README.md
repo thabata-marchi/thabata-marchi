@@ -8,8 +8,10 @@
 <img width="50%" height="195px" src="https://github-readme-streak-stats.herokuapp.com?user=thabata1&theme=github-dark-blue&hide_border=true&mode=weekly&title_color=c0c0c0&icon_color=c0c0c0&text_color=c9d1d9&bg_color=0d1117&card_width=550" alt="GitHub Streak" />
 </div>
 
-[![Automatic Update](https://github.com/thabata-marchi/painel-github-estatisticas/actions/workflows/update-statistics.yml/badge.svg)](https://github.com/thabata-marchi/painel-github-estatisticas/actions/workflows/update-statistics.yml)
-[![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-Live-brightgreen)](https://thabata-marchi.github.io/painel-github-estatisticas)
+
+<!--[![Automatic Update](https://github.com/thabata-marchi/painel-github-estatisticas/actions/workflows/update-statistics.yml/badge.svg)](https://github.com/thabata-marchi/painel-github-estatisticas/actions/workflows/update-statistics.yml)
+[![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-Live-brightgreen)](https://thabata-marchi.github.io/painel-github-estatisticas)-->
+
 
 ## 🚀 General Summary
 
