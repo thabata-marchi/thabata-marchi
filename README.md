@@ -1,8 +1,23 @@
-# Hi, I'm Thabata Marchi 👋
+<!-- Profile README: thabata-marchi -->
 
-**Senior Mobile Developer** specializing in Flutter & Dart with 10+ years of software development experience.
+<h1 align="center">Hi, I'm Thabata Marchi 👋</h1>
 
-I build scalable, well-tested mobile applications with a focus on **fintech**, **clean architecture**, and **code quality**.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&center=true&vCenter=true&width=700&lines=Senior+Mobile+Developer+%7C+Flutter%2C+Dart+%26+React+Native;Fintech+%7C+Clean+Architecture+%7C+Testing+Culture;CI%2FCD+%7C+Quality+Engineering+%7C+Scalable+Apps" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <strong>Senior Mobile Developer</strong> specializing in <strong>Flutter, Dart &amp; React Native</strong> with 10+ years of software development experience.<br/>
+  I build scalable, well-tested applications with a focus on <strong>fintech</strong>, <strong>clean architecture</strong>, and <strong>code quality</strong>.
+</p>
+
+---
+
+## 💡 Impact
+
+- Delivered production-grade mobile apps in **fintech** (exchanges, trading, digital banking)
+- Designed modular architectures that improved **maintainability, scalability, and delivery speed**
+- Implemented testing and CI pipelines that reduced regressions and increased release confidence
 
 ---
 
@@ -10,29 +25,30 @@ I build scalable, well-tested mobile applications with a focus on **fintech**, *
 
 - 📱 **Flutter Development** — 4+ years building production apps for iOS & Android
 - 🏦 **Fintech Specialist** — Cryptocurrency exchanges, trading platforms, digital banking
-- 🧪 **Testing Advocate** — Consistently achieving 80%+ code coverage with TDD practices
-- 🔄 **CI/CD Expert** — GitHub Actions, automated testing, App Store & Google Play releases
+- 🧪 **Testing Culture** — Unit/Widget/Integration tests, TDD mindset, CI validation
+- 🔄 **CI/CD** — GitHub Actions, automated testing, App Store & Google Play releases
 - 🔥 **Firebase** — Remote Config, feature flags, analytics, crashlytics
 
 ---
 
 ## 🛠️ Tech Stack
 
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+<p>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
+</p>
 
-**Mobile:** Flutter, Dart, React Native, Android (Kotlin), iOS  
+**Mobile:** Flutter, Dart, React Native 
 **Frontend:** React, Next.js, TypeScript  
 **Architecture:** Clean Architecture, MVVM, BLoC, Provider  
 **Testing:** Unit Tests, Widget Tests, Integration Tests, Mockito  
-**Backend:** Firebase, REST APIs, GraphQL  
-**Tools:** Git, CI/CD, Fastlane, Codemagic
+**Tools:** Git, CI/CD, Codemagic, Firebase
 
 ---
 
@@ -42,8 +58,8 @@ I build scalable, well-tested mobile applications with a focus on **fintech**, *
 > AI-powered flashcard learning app built with Flutter
 
 - 🧠 AI-generated flashcards for language learning
-- 🏗️ Clean Architecture with comprehensive testing
-- 📚 Showcases modern Flutter development practices
+- 🏗️ Clean Architecture with testing-first approach
+- 📚 Showcases modern Flutter engineering practices
 
 ---
 
