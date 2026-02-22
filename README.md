@@ -3,7 +3,7 @@
 <h1 align="center">Hi, I'm Thabata Marchi 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&center=true&vCenter=true&width=700&lines=Senior+Mobile+Developer+%7C+Flutter%2C+Dart+%26+React+Native;Fintech+%7C+Clean+Architecture+%7C+Testing+Culture;CI%2FCD+%7C+Quality+Engineering+%7C+Scalable+Apps" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&center=true&vCenter=true&width=700&lines=Senior+Mobile+Developer+%7C+Flutter%2C+Dart+%26+React+Native;Fintech+Experience+%7C+Clean+Architecture+%7C+Testing+Culture;CI%2FCD+%7C+Quality+Engineering+%7C+Scalable+Apps" alt="Typing SVG" />
 </p>
 
 <p align="center">
